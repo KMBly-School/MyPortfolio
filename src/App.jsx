@@ -195,7 +195,7 @@ function App() {
                 </div>
               </div>
             </div>
-            <div className="col-sm-12 text-dark p1" />
+            <div className="col-sm-1 text-dark p1" />
           </div>
         </div>
       </div>
